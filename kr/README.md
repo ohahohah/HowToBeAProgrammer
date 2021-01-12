@@ -33,7 +33,7 @@ Copyright 2002, 2003, 2016 Robert L. Read
         - [How to Debug Using a Log](en/1-Beginner/Personal-Skills/04-How-to-Debug-Using-a-Log.md)
         - [성능 문제를 이해하는 법](ko/1-Beginner/Personal-Skills/05-How-to-Understand-Performance-Problems.md)
         - [성능 문제를 해결하는 법](ko/1-Beginner/Personal-Skills/06-How-to-Fix-Performance-Problems.md)
-        - [How to Optimize Loops](en/1-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
+        - [루프를 최적화하는 법](ko/1-Beginner/Personal-Skills/07-How-to-Optimize-Loops.md)
         - [How to Deal with I/O Expense](en/1-Beginner/Personal-Skills/08-How-to-Deal-with-IO-Expense.md)
         - [How to Manage Memory](en/1-Beginner/Personal-Skills/09-How-to-Manage-Memory.md)
         - [How to Deal with Intermittent Bugs](en/1-Beginner/Personal-Skills/10-How-to-Deal-with-Intermittent-Bugs.md)
