@@ -3,7 +3,7 @@
   - 예: `1_1.Beginner - Personal - Learn to debug`
 
 ## 작업 내용 
-- 작업한 이슈 번호(예: #1):
+- 작업한 이슈 번호(예: `#이슈번호`):
 
 ## PR 전 확인하기
 - [ ] PR(Pull Request) 전에 이슈를 먼저 생성하셨나요?
